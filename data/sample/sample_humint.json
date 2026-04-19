@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Agent KILO Report",
+    "lat": 28.6100,
+    "lon": 77.2300,
+    "agent": "Field Agent K-7",
+    "report": "Subject confirmed at tertiary location. Vehicle: white Innova, PB-XX plate. Maintaining passive surveillance."
+  },
+  {
+    "name": "Source DELTA Brief",
+    "lat": 28.6440,
+    "lon": 77.1990,
+    "agent": "Handler D-3",
+    "report": "Package transfer observed at secondary safe house. Two persons of interest identified. Photos pending upload."
+  },
+  {
+    "name": "Operative SIERRA Debrief",
+    "lat": 28.5800,
+    "lon": 77.2150,
+    "agent": "Case Officer S-12",
+    "report": "Network hub confirmed active. Infrastructure consistent with comms relay. Recommend technical team sweep."
+  }
+]
